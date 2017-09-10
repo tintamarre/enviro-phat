@@ -5,7 +5,7 @@ import time
 from envirophat import weather, leds
 
 
-print("""This example will detect motion using the accelerometer.
+print("""This example will mesure temperature.
 
 Press Ctrl+C to exit.
 
